@@ -25,7 +25,7 @@ It demonstrates basic Active Directory configuration, domain-joined clients, sha
 5. Installed Windows 11 client
 6. Joined the client to the **lab.local** domain
 7. Logged in using domain credentials
-
+8. Created a shared folder on the server:
 9. Configured permissions for domain users
 10. Accessed the shared folder from the Windows 11 client
 
@@ -52,5 +52,4 @@ C:\Shared to C:\Backups\Shared_Backup
 - Virtual lab environment setup
 
 
-## File Server Simulation
-8. Created a shared folder on the server:
+
