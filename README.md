@@ -57,6 +57,11 @@ C:\Shared to C:\Backups\Shared_Backup
 - Basic file server concepts
 - Backup scripting (batch)
 - Virtual lab environment setup
+- Organizational Unit (OU) design
+- Security group management
+- Role-based access control (RBAC)
+- NS configuration for domain resolution
+- User privilege testing (standard vs admin)
 
 
 
